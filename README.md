@@ -1,5 +1,7 @@
 # Book Listing App
-[img]https://i.imgur.com/gQZw8P1.jpg[/img]
+![alt text](https://i.imgur.com/gQZw8P1.jpg)
+![alt text](https://i.imgur.com/d8s1i0D.jpg)
+![alt text](https://i.imgur.com/42OI8pv.png)
 # Project Overview
 This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making an app that lists books.
 
@@ -11,7 +13,7 @@ In the most recent portion of the Nanodegree program, you learned about the web 
 # What will I learn?
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
-Fetching data from an API
-Using an AsyncTask
-Parsing a JSON response
-Creating a list based on that data and displaying it to the user.
+Fetching data from an API 
+,  Using an AsyncTask
+, Parsing a JSON response
+, Creating a list based on that data and displaying it to the user.
